@@ -45,3 +45,55 @@ Projeye katkıda bulunmak için **Pull Request** gönderebilir veya hata bildiri
 
 
 💙 Diyabet hastalarının yaşamını kolaylaştırmak için geliştirilmiştir.
+
+
+## 📚 English
+
+
+
+# 📌 Diabetes Tracking Application
+
+A blood sugar tracking and recording application developed for diabetic patients. With this application, users can easily record, track, and analyze their blood sugar levels with graphs.
+
+## 🚀 Features
+
+✅ Record blood sugar levels
+
+✅ Daily, weekly, and monthly analysis charts
+
+✅ View and edit record history
+
+✅ User-friendly interface
+
+## 🛠️ Installation
+
+1. **Clone the Repository:**
+   ```sh
+   https://github.com/ankagndz/OGdiyabet.git
+   ```
+2. **Install Dependencies:**
+   ```sh
+   cd ogdiyabet
+   flutter clean
+   flutter pub get
+
+   #ANDROID
+
+   flutter build apk --release
+   ```
+3. **Build for ANDROID:**
+   ```sh
+   flutter build apk --release
+   ```
+
+## 📚 Usage
+
+1. Record a new measurement.
+2. Analyze your data through graphs.
+3. Export reports and share them with your doctor.
+
+## 💡 Contribution
+
+To contribute to the project, you can submit a **Pull Request** or report issues.
+
+💙 Developed to make life easier for diabetic patients.
