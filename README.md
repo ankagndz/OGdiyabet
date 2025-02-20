@@ -1,16 +1,47 @@
-# ogdiyabet
+# 📌 Diyabet Takip Uygulaması
 
-A new Flutter project.
+Diyabet hastaları için geliştirilmiş bir kan şekeri takip ve kayıt uygulaması. Bu uygulama sayesinde kullanıcılar kan şekeri seviyelerini kolayca kaydedebilir, takip edebilir ve grafiklerle analiz edebilir.
 
-## Getting Started
+## 🚀 Özellikler
 
-This project is a starting point for a Flutter application.
+✅ Kan şekeri seviyelerini kaydetme
 
-A few resources to get you started if this is your first Flutter project:
+✅ Günlük, haftalık ve aylık analiz grafikleri
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Kayıt geçmişini görüntüleme ve düzenleme
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Kullanıcı dostu arayüz
+
+## 🛠️ Kurulum
+
+1. **Depoyu Klonlayın:**
+   ```sh
+   https://github.com/ankagndz/OGdiyabet.git
+   ```
+2. **Bağımlılıkları Yükleyin:**
+   ```sh
+   cd ogdiyabet
+   flutter clean
+   flutter pub get
+
+   #ANDROID
+
+   flutter build apk --release
+   ```
+3. **ANDROID için Derleme:**
+   ```sh
+   flutter build apk --release
+   ```
+
+## 📚 Kullanım
+
+1. Yeni bir ölçüm kaydedin.
+2. Verilerinizi grafikler üzerinden analiz edin.
+3. Raporlarınızı dışa aktararak doktorunuzla paylaşın.
+
+## 💡 Katkıda Bulunma
+
+Projeye katkıda bulunmak için **Pull Request** gönderebilir veya hata bildirimlerinde bulunabilirsiniz.
+
+
+💙 Diyabet hastalarının yaşamını kolaylaştırmak için geliştirilmiştir.
